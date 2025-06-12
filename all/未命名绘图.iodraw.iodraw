@@ -19,8 +19,20 @@
         <mxCell id="qF9GtkJnpwMNHi4nd5Ca-3" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qF9GtkJnpwMNHi4nd5Ca-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qF9GtkJnpwMNHi4nd5Ca-5" target="qF9GtkJnpwMNHi4nd5Ca-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qF9GtkJnpwMNHi4nd5Ca-5" value="合并option" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qF9GtkJnpwMNHi4nd5Ca-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qF9GtkJnpwMNHi4nd5Ca-7" target="qF9GtkJnpwMNHi4nd5Ca-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qF9GtkJnpwMNHi4nd5Ca-7" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qF9GtkJnpwMNHi4nd5Ca-9" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
