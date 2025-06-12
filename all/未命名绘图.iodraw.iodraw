@@ -46,8 +46,8 @@
         <mxCell id="qF9GtkJnpwMNHi4nd5Ca-24" value="数据变动，重新触发change方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qF9GtkJnpwMNHi4nd5Ca-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="380" width="60" height="30" as="geometry" />
+        <mxCell id="qF9GtkJnpwMNHi4nd5Ca-25" value="不要使用watch监听" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
