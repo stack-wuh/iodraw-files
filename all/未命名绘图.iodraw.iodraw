@@ -67,6 +67,9 @@
         <mxCell id="qF9GtkJnpwMNHi4nd5Ca-35" value="日/周/月 切换" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="510" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qF9GtkJnpwMNHi4nd5Ca-36" value="周比 切换" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
