@@ -62,7 +62,7 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qF9GtkJnpwMNHi4nd5Ca-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="490" width="420" height="120" as="geometry" />
+          <mxGeometry x="10" y="490" width="420" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qF9GtkJnpwMNHi4nd5Ca-35" value="日/周/月 切换" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="510" width="90" height="30" as="geometry" />
